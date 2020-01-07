@@ -34,7 +34,7 @@
     "@firebase/app": "^0.3.3",
     "@firebase/auth": "^0.7.1",
     "@firebase/firestore": "^0.6.0",
-    "@firebase/functions": "^0.3.0",
+    "@firebase/functions": "^0.4.28",
     "@nuxtjs/axios": "^5.3.1",
     "@nuxtjs/vuetify": "^0.4.2",
     "dotenv": "^6.0.0",
